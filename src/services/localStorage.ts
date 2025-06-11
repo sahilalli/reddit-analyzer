@@ -8,9 +8,9 @@ const STORAGE_KEYS = {
 
 // Default configuration with provided credentials
 const DEFAULT_CONFIG: AppConfig = {
-  redditClientId: 'oAc3K_dKkfVaqUHZUYfDFg',
-  redditClientSecret: 'IlbnAQu4AvATImqm3tgrB7lnU9xVTg',
-  geminiApiKey: 'AIzaSyDRw4Teca0uEWiTGhFll6f3WXO8tbKNLUo'
+  redditClientId: 'Q5qF-LyHwHSHXrKJr0FV7w',
+  redditClientSecret: 'AYScEzf9pWal5EwKi8k8gjyV-pjXfA',
+  geminiApiKey: 'AIzaSyAK1zlmQFTtZ44pt7mTBpVGwJ_v2_dlzZk'
 };
 
 export class LocalStorageService {
